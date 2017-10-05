@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+  <class name="entidades.TipoImpuesto" table="tipoimpuesto">
+    <id name="OID" type="string">
+      <column name="OIDTipoImpuesto"/>
+      <generator class="uuid2"/>
+    </id>
+    <property name="codigoTipoImpuesto" type="string">
+      <column name="codigo"/>
+    </property>
+    <property name="nombreTipoImpuesto" type="string">
+      <column name="nombre"/>
+    </property>
+    <property name="fechaInhabilitacionTI" type="date">
+      <column name="fechaInhabilitacion"/>
+    </property>
+    
+    <bag cascade="none" inverse="false" name="numeracionAtributoList" table="NumeracionAtributo">
+      <key column="OIDTipoImpuesto" not-null="true"/>
+      <one-to-many class="entidades.NumeracionAtributo"/>
+    </bag>
+  </class>
+</hibernate-mapping>

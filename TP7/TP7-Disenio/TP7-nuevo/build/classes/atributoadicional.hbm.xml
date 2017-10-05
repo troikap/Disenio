@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-mapping PUBLIC "-//Hibernate/Hibernate Mapping DTD 3.0//EN" "http://hibernate.sourceforge.net/hibernate-mapping-3.0.dtd">
+
+<hibernate-mapping>
+
+    <class name="entidades.AtributoAdicional" table="atributoadicional">
+
+        <id name="OID" type="string">
+            <column name="OIDAtributoAdicional"/>
+            <generator class="uuid2"/>
+        </id>
+
+        <property name="codigoAtributoAdicional" type="string">
+            <column name="codigoAtributoAdicional"/>
+        </property>
+
+        <property name="nombreAtributoAdicional" type="string">
+            <column name="nombreAtributoAdicional"/>
+        </property>
+        
+        <property name="fechaInhabilitacionAA" type="string">
+            <column name="fechaInhabilitacionAA"/>
+        </property>
+        
+        <property name="longitud" type="int">
+            <column name="longitud"/>
+        </property>
+        
+    </class>
+    
+</hibernate-mapping>
+
