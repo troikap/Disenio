@@ -69,10 +69,11 @@
     <node id="n3">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="157.42578125" x="173.21333007812507" y="185.76"/>
+          <y:Geometry height="26.0" width="106.0625" x="198.89497070312507" y="185.76"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="147.42578125" x="5.0" y="3.6494140625">07-DetallePedido Producto<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="96.0625" x="5.0" y="-3.701171875">07-DetallePedido
+Producto<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -262,10 +263,11 @@
     <node id="n14">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="110.708984375" x="701.9959960937501" y="325.01"/>
+          <y:Geometry height="26.0" width="64.6953125" x="725.0028320312501" y="325.01"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="100.708984375" x="5.0" y="3.6494140625">16-Orden Compra<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="54.6953125" x="5.0" y="-3.701171875">16-Orden
+Compra<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -297,10 +299,11 @@
     <node id="n16">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="185.427734375" x="393.09414062500014" y="299.76"/>
+          <y:Geometry height="26.0" width="102.048828125" x="434.78359375000014" y="299.76"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="175.427734375" x="5.0" y="3.6494140625">18-DetalleOrden CompraPedido<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="92.048828125" x="5.0" y="-3.701171875">18-DetalleOrden
+CompraPedido<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -350,10 +353,11 @@
     <node id="n19">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="110.0703125" x="812.8423690424939" y="77.39999999999986"/>
+          <y:Geometry height="26.0" width="68.703125" x="833.5259627924939" y="77.39999999999986"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="100.0703125" x="5.0" y="3.6494140625">03-Estado Agente<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="58.703125" x="5.0" y="-3.701171875">03-Estado
+Agente<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -403,10 +407,11 @@
     <node id="n22">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="148.068359375" x="751.7481933593751" y="430.26"/>
+          <y:Geometry height="26.0" width="90.03125" x="780.7667480468751" y="430.26"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="138.068359375" x="5.0" y="3.6494140625">17-Estado OrdenCompra<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="80.03125" x="5.0" y="-3.701171875">17-Estado
+OrdenCompra<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -455,10 +460,11 @@
     <node id="n25">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="167.404296875" x="96.42529296875028" y="-52.600000000000136"/>
+          <y:Geometry height="32.0" width="97.9049681263858" x="134.24591077986446" y="-58.600000000000136"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="157.404296875" x="5.0" y="3.6494140625">15-ServicioTecnico Producto<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="94.046875" x="1.9290465631929123" y="-0.701171875">15-Servicio
+TecnicoProducto<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -472,10 +478,11 @@
     <node id="n26">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="119.375" x="316.21689453125" y="-54.600000000000136"/>
+          <y:Geometry height="26.0" width="74.0234375" x="338.89267578125" y="-54.600000000000136"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="109.375" x="5.0" y="3.6494140625">14-Servicio Técnico<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="64.0234375" x="5.0" y="-3.701171875">14-Servicio
+Técnico<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -524,10 +531,11 @@
     <node id="n29">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="127.37890625" x="643.0587402343751" y="467.85819286871964"/>
+          <y:Geometry height="26.0" width="74.69140625" x="669.4024902343751" y="467.85819286871964"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="117.37890625" x="5.0" y="3.6494140625">20-Retiro Mercadería<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="64.69140625" x="5.0" y="-3.701171875">20-Retiro
+Mercadería<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -559,10 +567,11 @@
     <node id="n31">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="133.384765625" x="839.04638671875" y="249.76"/>
+          <y:Geometry height="26.0" width="76.689453125" x="867.39404296875" y="249.76"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="123.384765625" x="5.0" y="3.6494140625">04-Centro Distribución<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="66.689453125" x="5.0" y="-3.701171875">04-Centro
+Distribución<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -594,10 +603,11 @@
     <node id="n33">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="233.45703125" x="80.78730468750007" y="293.76"/>
+          <y:Geometry height="26.0" width="142.07421875" x="126.47871093750007" y="293.76"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="223.45703125" x="5.0" y="3.6494140625">19-DetalleOrdenCompra PedidoProducto<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="132.07421875" x="5.0" y="-3.701171875">19-DetalleOrden
+CompraPedidoProducto<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -791,10 +801,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n44">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="109.40234375" x="312.61210937499993" y="115.04999999999973"/>
+          <y:Geometry height="26.0" width="68.703125" x="332.96171874999993" y="115.04999999999973"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="99.40234375" x="5.0" y="3.6494140625">21-Estado Pedido<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="58.703125" x="5.0" y="-3.701171875">21-Estado
+Pedido<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -826,10 +837,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n46">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="131.41015625" x="237.51191406250007" y="365.94000000000005"/>
+          <y:Geometry height="26.0" width="73.3671875" x="266.53339843750007" y="365.94000000000005"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="121.41015625" x="5.0" y="3.6494140625">22-Pedido Devolución<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="63.3671875" x="5.0" y="-3.701171875">22-Pedido
+Devolución<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -843,10 +855,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n47">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="216.79296875" x="-57.31328124999993" y="365.94000000000005"/>
+          <y:Geometry height="26.0" width="121.396484375" x="-9.615039062499932" y="365.94000000000005"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="206.79296875" x="5.0" y="3.6494140625">23-DetallePedido DevoluciónProducto<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="111.396484375" x="5.0" y="-3.701171875">23-DetallePedido
+DevoluciónProducto<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -860,10 +873,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n48">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="168.76953125" x="39.7390625000001" y="485.27"/>
+          <y:Geometry height="26.0" width="106.068359375" x="71.0896484375001" y="485.27"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="158.76953125" x="5.0" y="3.6494140625">24-EstadoPedido Devolución<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="96.068359375" x="5.0" y="-3.701171875">24-EstadoPedido
+Devolución<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -949,10 +963,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n53">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="127.396484375" x="589.6772597054804" y="533.4563857374393"/>
+          <y:Geometry height="26.0" width="73.3671875" x="616.6919081429804" y="533.4563857374393"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="117.396484375" x="5.0" y="3.6494140625">25-Orden Devolución<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="63.3671875" x="5.0" y="-3.701171875">25-Orden
+Devolución<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -966,10 +981,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n54">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="202.115234375" x="238.5085937500001" y="543.27"/>
+          <y:Geometry height="26.0" width="110.732421875" x="296.7893530154731" y="543.27"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="192.115234375" x="5.0" y="3.6494140625">26-DetalleOrden DevoluciónPedido<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="100.732421875" x="5.0" y="-3.701171875">26-DetalleOrden
+DevoluciónPedido<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -983,10 +999,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n55">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="250.14453125" x="-84.72099609374993" y="547.27"/>
+          <y:Geometry height="26.0" width="158.76171875" x="-39.02958984374993" y="547.27"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="240.14453125" x="5.0" y="3.6494140625">27-DetalleOrdenDevolución PedidoProducto<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="148.76171875" x="5.0" y="-3.701171875">27-DetalleOrden
+DevoluciónPedidoProducto<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1090,10 +1107,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n61">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="148.068359375" x="364.89960937500007" y="432.1200000000001"/>
+          <y:Geometry height="26.0" width="90.03125" x="393.91816406250007" y="432.1200000000001"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="138.068359375" x="5.0" y="3.6494140625">28-Estado OrdenCompra<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="80.03125" x="5.0" y="-3.701171875">28-Estado
+OrdenCompra<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1143,10 +1161,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n64">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="106.05078125" x="-114.63320312499945" y="15.759999999999991"/>
+          <y:Geometry height="26.0" width="62.029296875" x="-92.62246093749945" y="15.759999999999991"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="96.05078125" x="5.0" y="3.6494140625">31-Tipo Producto<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="52.029296875" x="5.0" y="-3.701171875">31-Tipo
+Producto<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1196,10 +1215,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n67">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="118.068359375" x="556.820703125" y="-20.600000000000136"/>
+          <y:Geometry height="26.0" width="83.375" x="574.1673828125" y="-20.600000000000136"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="108.068359375" x="5.0" y="3.6494140625">30-Campaña Etapa<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="73.375" x="5.0" y="-3.701171875">30-Campaña
+Etapa<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1231,10 +1251,11 @@ ProductoCatálogo<y:LabelModel>
     <node id="n69">
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="26.0" width="118.068359375" x="602.0977047879524" y="77.39999999999986"/>
+          <y:Geometry height="26.0" width="66.03125" x="628.1162594754524" y="77.39999999999986"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="108.068359375" x="5.0" y="3.6494140625">29-Etapa Campaña<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="56.03125" x="5.0" y="-3.701171875">29-Etapa
+Campaña<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1246,7 +1267,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </node>
     <node id="n70">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="-76.60781249999945" y="69.75999999999999"/>
@@ -1265,7 +1285,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </node>
     <node id="n71">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="10.225189614566716" y="7.579999999999927"/>
@@ -1284,7 +1303,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </node>
     <node id="n72">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="273.52031250000016" y="-58.600000000000136"/>
@@ -1303,7 +1321,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </node>
     <node id="n73">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="57.97148152603336" y="-8.200000000000273"/>
@@ -1322,13 +1339,13 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </node>
     <node id="n74">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
-          <y:Geometry height="30.0" width="168.08984375" x="776.8967312854538" y="531.4563857374393"/>
+          <y:Geometry height="30.0" width="102.0546875" x="809.9143094104538" y="531.4563857374393"/>
           <y:Fill color="#FFCC00" transparent="false"/>
           <y:BorderStyle color="#000000" type="line" width="1.0"/>
-          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="18.701171875" modelName="custom" textColor="#000000" visible="true" width="158.08984375" x="5.0" y="5.6494140625">32-Estado Orden Devolucion<y:LabelModel>
+          <y:NodeLabel alignment="center" autoSizePolicy="content" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" height="33.40234375" modelName="custom" textColor="#000000" visible="true" width="92.0546875" x="5.0" y="-1.701171875">32-EstadoOrden
+Devolucion<y:LabelModel>
               <y:SmartNodeLabelModel distance="4.0"/>
             </y:LabelModel>
             <y:ModelParameter>
@@ -1340,7 +1357,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </node>
     <node id="n75">
-      <data key="d5"/>
       <data key="d6">
         <y:ShapeNode>
           <y:Geometry height="30.0" width="30.0" x="731.9852376829672" y="531.4563857374392"/>
@@ -1384,7 +1400,7 @@ ProductoCatálogo<y:LabelModel>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
-          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-21.599688720703057" y="-31.999994506835947">
+          <y:EdgeLabel alignment="center" distance="2.0" fontFamily="Dialog" fontSize="12" fontStyle="plain" hasBackgroundColor="false" hasLineColor="false" hasText="false" height="4.0" modelName="custom" preferredPlacement="anywhere" ratio="0.5" textColor="#000000" visible="true" width="4.0" x="-34.44050903320306" y="-31.999994506835947">
             <y:LabelModel>
               <y:SmartEdgeLabelModel autoRotationEnabled="false" defaultAngle="0.0" defaultDistance="10.0"/>
             </y:LabelModel>
@@ -1608,7 +1624,7 @@ ProductoCatálogo<y:LabelModel>
     <edge id="e22" source="n21" target="n14">
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-35.54342973385367" ty="-0.7900000000003047"/>
+          <y:Path sx="0.0" sy="0.0" tx="-20.770611409137995" ty="-0.7900000000003047"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -2169,7 +2185,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e78" source="n64" target="n70">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2180,7 +2195,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e79" source="n70" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2191,7 +2205,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e80" source="n71" target="n5">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2202,7 +2215,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e81" source="n71" target="n24">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2213,7 +2225,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e82" source="n5" target="n73">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2224,10 +2235,9 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e83" source="n73" target="n25">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
-          <y:Path sx="0.0" sy="0.0" tx="-77.01736397367928" ty="7.127282549973174"/>
+          <y:Path sx="0.0" sy="0.0" tx="-45.04294516795882" ty="8.772040061505443"/>
           <y:LineStyle color="#000000" type="line" width="1.0"/>
           <y:Arrows source="none" target="none"/>
           <y:BendStyle smoothed="false"/>
@@ -2235,7 +2245,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e84" source="n25" target="n72">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2246,7 +2255,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e85" source="n72" target="n26">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2257,7 +2265,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e86" source="n53" target="n75">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
@@ -2268,7 +2275,6 @@ ProductoCatálogo<y:LabelModel>
       </data>
     </edge>
     <edge id="e87" source="n75" target="n74">
-      <data key="d9"/>
       <data key="d10">
         <y:PolyLineEdge>
           <y:Path sx="0.0" sy="0.0" tx="0.0" ty="0.0"/>
